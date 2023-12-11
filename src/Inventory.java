@@ -22,7 +22,7 @@ public class Inventory
     /**
      * @return The item reference by searching for it using its item reference,
      * otherwise returns null if the item doesn't exist.
-     * @param The item reference of the item you are trying to find.
+     * @param itemToFind item reference of the item you are trying to find.
      */
     public Item getItem(Item itemToFind)
     {
@@ -39,7 +39,7 @@ public class Inventory
     /**
      * @return The item reference by searching for it using its name,
      * otherwise returns null if the item doesn't exist.
-     * @param The name of the item you are trying to get.
+     * @param name The name of the item you are trying to get.
      */
     public Item getItem(String name)
     {
