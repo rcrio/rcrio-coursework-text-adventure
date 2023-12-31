@@ -1,4 +1,5 @@
-2nd coursework for KCL's 1st year CS programming module (PPA). Grade: Pending.
+2nd coursework for KCL's 1st year CS programming module (PPA). Grade: Pending
+
 This coursework was originally done in BlueJ, but I have ported the project over to IntelliJ. You can check the assignment-materials folder for the task list and the base code. Try it yourself if you want!
 
 Tensura Labyrinth is a simple text-based adventure game that runs as a console application. In the game, you are lost in a labyrinth and you must escape the labyrinth by picking up the relics and giving them to the Seer, and defeating all the slimes.
