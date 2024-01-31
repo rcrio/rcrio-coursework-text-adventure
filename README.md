@@ -1,4 +1,4 @@
-2nd coursework for KCL's 1st year CS programming module (PPA). Grade: Pending
+2nd coursework for KCL's 1st year CS programming module (PPA). Grade: First (100%)
 
 This coursework was originally done in BlueJ, but I have ported the project over to IntelliJ. You can check the assignment-materials folder for the task list and the base code. Try it yourself if you want!
 
