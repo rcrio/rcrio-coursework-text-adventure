@@ -12,8 +12,8 @@ The video demo will go more in-depth to the mechanics of the game, the gif demo 
 
 
 ## Coursework Details:
-- The 2nd coursework for KCL's 4CCS1PPA module.
-- Grade: 100%.
+- The 2nd coursework for KCL's 4CCS1PPA module
+- Grade: 100%
 
 ## Gif Demo
 ![Tensura Labyrinth Demo](https://i.imgur.com/6vHSa0C.gif)
