@@ -1,14 +1,21 @@
-2nd coursework for KCL's 1st year CS programming module (PPA). Grade: First (100%)
+# Text Adventure - Tensura Labyrinth
 
-This coursework was originally done in BlueJ, but I have ported the project over to IntelliJ. You can check the assignment-materials folder for the task list and the base code. Try it yourself if you want!
+A text adventure based game which is played in the console window.
+The game includes a labyrinth of rooms, with NPCs, enemies and items with one room being a random teleporter.
+It also has a winning condition.
+The whole game and its mechanics are explained in the report, but a demo below will showcase how the game generally works.
 
-To run this program, you will need to download IntelliJ and open the project. Then, you can compile it and run it.
+## Coursework Details:
+- The 2nd coursework for KCL's 4CCS1PPA module.
+- Grade: 100%.
 
-Tensura Labyrinth is a simple text-based adventure game that runs as a console application. In the game, you are lost in a labyrinth and you must escape the labyrinth by picking up the relics and giving them to the Seer, and defeating all the slimes.
-You start in a room, and you can travel between rooms by using the go command to go either north, west, east, or south. In rooms, you may see items that are pickable or not pickable, and you may see NPCs that are enemies or friendly NPCs. You can interact NPCs with interact. Enemies will not attack you, but you must slay all the enemies as one of the objectives to pass the game. To slay enemies, you must pick up a Sword in one of the rooms to be able to attack enemies. There are several commands that can help you such as pickup, drop and attack to interact with items or NPCs.
+## Gif Demo
+![Tensura Labyrinth Demo](https://i.imgur.com/mBinKzR.mp4)
 
-Test out the commands! To see all the commands, type help when the program is running.
+## Video Demo and Explanation
+(to be added)
 
-For a more detailed guide, check the PDF in the repository. A map is in the PDF as well, but you can open the .png file inside the repository for the map by itself.
+## To-do:
+- Complete video and upload it to YouTube.
 
 
