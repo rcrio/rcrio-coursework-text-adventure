@@ -12,7 +12,7 @@ The video demo will go more in-depth to the mechanics of the game, the gif demo 
 
 
 ## Coursework Details:
-- The 2nd coursework for KCL's 4CCS1PPA module
+- The 2nd coursework for KCL's 1st year programming module, 4CCS1PPA
 - Grade: 100%
 
 ## Gif Demo
